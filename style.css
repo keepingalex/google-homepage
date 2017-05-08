@@ -1,0 +1,32 @@
+li {
+	display: inline;
+	margin: 5px;
+}
+
+#sesionn {
+	background-color: #518CF0;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+#topbar {
+	position: absolute;
+	right: 0px;
+}
+
+img {
+	display: block;
+	margin: auto;
+	padding-top: 189px;
+}
+
+.center {
+	margin: 0 auto;
+	width: 350px;
+}
+
+form {
+	border: solid;
+	border-color: rgb(254, 125, 222);
+	max-width: 100%;
+}
